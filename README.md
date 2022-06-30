@@ -1,0 +1,3 @@
+# Analytics-Dashboard
+Data visualization dashboard made with Django, MongoDB, and Chart.JS.
+Data Taken From JSON FILE Containing 1000+ Documents...
